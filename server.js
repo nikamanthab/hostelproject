@@ -8,4 +8,4 @@ app.get("/",(req,res)=>{
 })
 app.use(express.static("/media/nikamanth/New Volume/movies"));
 
-app.listen(3000,port);
+app.listen(8080,port);
